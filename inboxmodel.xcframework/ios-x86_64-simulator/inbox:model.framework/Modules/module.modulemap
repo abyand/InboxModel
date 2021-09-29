@@ -1,0 +1,6 @@
+framework module inbox:model {
+    umbrella header "inbox:model.h"
+
+    export *
+    module * { export * }
+}
